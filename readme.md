@@ -26,9 +26,8 @@
 <img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/3.gif" width="34%" align='left'>
 </p>
 
-<br>
 
-
+<p align="left">  
 
 ## Dataset
 
@@ -42,7 +41,7 @@
 ## Object Tracking 
 [simple centroid tracking](https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/) Technique from PyImageSearch was implemented in this project to work with the detections 
 
-
+</p>  
 
 
 
