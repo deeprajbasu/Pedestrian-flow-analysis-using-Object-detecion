@@ -18,7 +18,7 @@
     
     
 
-<p align="center">    
+<p align="left">    
     
 <img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/1.gif" width="30%" align="center" >   
 <img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/4.gif" width="30%" align='center'>
