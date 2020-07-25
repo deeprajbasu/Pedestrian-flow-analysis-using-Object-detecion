@@ -11,6 +11,9 @@
 
 
 > use [Unsupervised Segmentation using MASON](https://github.com/JosephKJ/MASON) to retrain with cleaner dataset
+
+> use a more sophisticated tracking method to reduce errors while tracking
+
     
     
     
