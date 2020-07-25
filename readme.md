@@ -2,15 +2,19 @@
 
 
 ###### To do
+> analyse movement of detected pedestrians to classify them as 'incoming' or 'outgoing'
+
 > try to use a better detector such as yolo or retina net
 
 
 > display number of people present 
 
 
-> analyse movement of detected pedestrians to classify them as 'incoming' or 'outgoing'
+> use [Unsupervised Segmentation using MASON](https://github.com/JosephKJ/MASON) to retrain with cleaner dataset
     
     
+    
+
 <p align="center">    
 <img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/1.gif" width="30%" align="left" >   
 <img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/4.gif" width="30%" align='left'>
