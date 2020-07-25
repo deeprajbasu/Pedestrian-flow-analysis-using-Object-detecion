@@ -13,7 +13,8 @@
 <br>
 
 ## Dataset
-[Stanford Drone Dataset](https://cvgl.stanford.edu/projects/uav_data/) dataset is used for training my pedestrian detector
+[Stanford Drone Dataset](https://cvgl.stanford.edu/projects/uav_data/) dataset is used for training my pedestrian detector.
+
 [Dataset UTILS](https://github.com/JosephKJ/SDD-Utils) used for processing the raw dataset for creating tf-records for training 
 
 
