@@ -1,9 +1,13 @@
 #      Pedestrian / Commuter flow analysis with Object Detection
 
 
-#######To do
+####### To do
 > try to use a better detector such as yolo or retina net
+
+
 > display number of people present 
+
+
 > analyse movement of detected pedestrians to classify them as 'incoming' or 'outgoing'
     
     
