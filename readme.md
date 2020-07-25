@@ -1,7 +1,7 @@
 #      Pedestrian / Commuter flow analysis with Object Detection
 
 
-####### To do
+###### To do
 > try to use a better detector such as yolo or retina net
 
 
