@@ -4,7 +4,7 @@
     
     
 <img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/1.gif" align="left" >   
-<img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/4.gif" width="15%" align='left'>
+<img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/4.gif" width="100%" align='left'>
 
     
     
