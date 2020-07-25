@@ -33,7 +33,6 @@
 
 
 <div align="left">  
-
 ## Dataset
 
 [Stanford Drone Dataset](https://cvgl.stanford.edu/projects/uav_data/) dataset is used for training my pedestrian detector.
