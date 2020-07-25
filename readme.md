@@ -28,7 +28,7 @@
 
 
 
-<div align="bottom">  
+<div align="left">  
 
 
 
