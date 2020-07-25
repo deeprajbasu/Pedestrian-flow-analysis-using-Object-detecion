@@ -19,6 +19,7 @@
     
 
 <p align="center">    
+    
 <img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/1.gif" width="30%" align="left" >   
 <img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/4.gif" width="30%" align='left'>
 
@@ -31,7 +32,7 @@
 
 
 
-<p align="left">  
+<div align="left">  
 
 ## Dataset
 
@@ -45,7 +46,7 @@
 ## Object Tracking 
 [simple centroid tracking](https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/) Technique from PyImageSearch was implemented in this project to work with the detections 
 
-</p>  
+</div>  
 
 
 
