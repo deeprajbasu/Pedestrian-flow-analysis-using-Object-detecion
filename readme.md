@@ -9,4 +9,4 @@
     
     
 <img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/2.gif" align="bottom-left" >   
-<img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/3.gif" align='right'>
+<img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/3.gif" align='left'>
