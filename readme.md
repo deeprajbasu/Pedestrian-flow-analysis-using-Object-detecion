@@ -19,10 +19,10 @@
     
 
 <p align="left">  
-<img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/3.gif" width="45%" align='left'>
-<img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/2.gif" width="45%" align="left" >       
-<img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/1.gif" width="45%" align="left" >   
-<img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/4.gif" width="45%" align='left'>
+<img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/3.gif" width="45%" align='left'>
+<img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/2.gif" width="45%" align="left" >       
+<img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/1.gif" width="45%" align="left" >   
+<img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/4.gif" width="45%" align='left'>
 </p>
 
 
