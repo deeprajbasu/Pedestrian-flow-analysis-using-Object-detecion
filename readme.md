@@ -32,7 +32,7 @@
 
 
 
-<div align="bottom">  
+<div align="right">  
 
 
 
