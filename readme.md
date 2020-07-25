@@ -28,10 +28,6 @@
 
 
 
-<div align="left">  
-
-
-
 ## Dataset
 
 [Stanford Drone Dataset](https://cvgl.stanford.edu/projects/uav_data/) dataset is used for training my pedestrian detector.
@@ -44,7 +40,6 @@
 ## Object Tracking 
 [simple centroid tracking](https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/) Technique from PyImageSearch was implemented in this project to work with the detections 
 
-</div>  
 
 
 
