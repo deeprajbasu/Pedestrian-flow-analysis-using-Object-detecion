@@ -1,10 +1,10 @@
-#      Pedestrian/Commuter flow analysis with Object Detection
+#      Pedestrian / Commuter flow analysis with Object Detection
 
     
     
     
 <img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/1.gif" align="left" >   
-<img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/4.gif" width="336" height="457" align='left'>
+<img src="https://raw.githubusercontent.com/deeprajbasu/PedestrianFlowAnalysis/master/4.gif" width="115%" align='left'>
 
     
     
