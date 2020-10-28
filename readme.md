@@ -43,9 +43,10 @@
 
 
 <p align="left">  
-<img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/Optflow.gif" width="45%" align='left'>
+<img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/Optflow-opt.gif" width="45%" align='left'>
+    <img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/Optflow-opt2.gif" width="45%" align='left'>
 </p>
 
 ## Optical Flow
 optical flow output.
-perhaps quality of detections can be improved by detected on optical flow features instead of raw data, 
+perhaps quality of detections can be improved by detecting on optical flow features instead of raw data, 
