@@ -1,5 +1,12 @@
 #      Pedestrian / Commuter flow analysis with Object Detection
 
+<p align="left">  
+<img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/3.gif" width="45%" align='left'>
+<img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/2.gif" width="45%" align="left" >       
+<img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/1.gif" width="45%" align="left" >   
+<img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/4.gif" width="45%" align='left'>
+</p>
+
 
 ###### To do
 > analyse movement of detected pedestrians to classify them as 'incoming' or 'outgoing'
@@ -13,19 +20,6 @@
 > use [Unsupervised Segmentation using MASON](https://github.com/JosephKJ/MASON) to retrain with cleaner dataset
 
 > use a more sophisticated tracking method to reduce errors while tracking
-
-    
-    
-    
-
-<p align="left">  
-<img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/3.gif" width="45%" align='left'>
-<img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/2.gif" width="45%" align="left" >       
-<img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/1.gif" width="45%" align="left" >   
-<img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/4.gif" width="45%" align='left'>
-</p>
-
-
 
 
 ## Dataset
