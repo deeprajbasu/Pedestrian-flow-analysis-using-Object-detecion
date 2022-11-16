@@ -7,6 +7,7 @@
 <img src="https://raw.githubusercontent.com/deeprajbasu/Pedestrian-flow-analysis-using-Object-detecion/master/4.gif" width="45%" align='left'>
 </p>
 
+<br>
 
 ###### To do
 > analyse movement of detected pedestrians to classify them as 'incoming' or 'outgoing'
